@@ -1,4 +1,4 @@
-# Workshops
+# Workshops update
 
 [![CI](https://github.com/canonical/workshops/workflows/Build/badge.svg)](https://github.com/canonical/workshops/actions/workflows/build.yaml)
 [![CI](https://github.com/canonical/workshops/workflows/Analysis/badge.svg)](https://github.com/canonical/workshops/actions/workflows/analysis.yaml)
@@ -20,5 +20,6 @@ Workshops is being translated using [Weblate](https://hosted.weblate.org/engage/
 ### Configuration Schemas
 
 The configuration schemas `assets/*_config_schema.yaml` can be obtained by running the python script in `scripts/configtable2yaml`, which parses the tables provided in the lxd documentation:
+
 - [Project configuration](https://linuxcontainers.org/lxd/docs/master/projects/)
 - [Instance options](https://linuxcontainers.org/lxd/docs/master/reference/instance_options/)
