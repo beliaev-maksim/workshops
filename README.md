@@ -7,7 +7,7 @@
 [![weblate](https://hosted.weblate.org/widgets/workshops/-/workshops/svg-badge.svg)](https://hosted.weblate.org/engage/workshops/)
 
 Workshops provides a user friendly interface to create and manage LXD containers
-as well as provides a full featured terminal.
+as well as provides a full featured termina l.
 
 ![select-os](.github/select-os.png)
 ![select-features](.github/select-features.png)
